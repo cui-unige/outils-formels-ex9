@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Swift Package Manager
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+
+# XCode
+.swiftpm
+
+# Latex
+/*.aux
+/*.fdb_latexmk
+/*.fls
+/*.log
+/*.synctex.gz
